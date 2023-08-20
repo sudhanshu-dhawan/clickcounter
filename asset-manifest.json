@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clickcounter/static/css/main.697b3ca3.css",
+    "main.js": "/clickcounter/static/js/main.cc9e15fb.js",
+    "static/media/iete-logo-white.png": "/clickcounter/static/media/iete-logo-white.2b46e00936689a9b7a08.png",
+    "index.html": "/clickcounter/index.html",
+    "main.697b3ca3.css.map": "/clickcounter/static/css/main.697b3ca3.css.map",
+    "main.cc9e15fb.js.map": "/clickcounter/static/js/main.cc9e15fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.697b3ca3.css",
+    "static/js/main.cc9e15fb.js"
+  ]
+}
